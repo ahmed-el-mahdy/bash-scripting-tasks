@@ -53,53 +53,59 @@ Monitor system resources with this script, which:
 
 ## Installation 📦
 
-Clone this repository to get started:
-```bash
-git clone https://github.com/ciscosky/bash-scripting-tasks.git
-cd bash-scripting-tasks
-Make the scripts executable:
+1. Clone this repository to get started:
+    ```bash
+    git clone https://github.com/ahmed-el-mahdy/bash-scripting-tasks.git
+    cd bash-scripting-tasks
 
-bash
+2. Make the Scripts Executable
+    To make the scripts executable, run:
+    ```bash
+    chmod +x tasks/*.sh
 
-chmod +x tasks/*.sh
+-----------
 
-Usage 🛠️
-
-Run a specific task by navigating to the tasks/ folder and executing the desired script. For example:
-
-bash
-
-./tasks/task1-backup.sh /path/to/your/directory
-
+## Usage 🛠️
+ Run a specific task by navigating to the tasks/ folder and executing the desired script. For example:
+   
+    ```bash
+    chmod +x tasks/*.sh
+    
 You can modify the scripts as needed to suit your specific use case.
-Contributing 🤝
+
+## Contributing 🤝
 
 Feel free to fork this repository and submit pull requests. Contributions are welcome and encouraged to improve the scripts or add new tasks.
 
-    Fork the repository
-    Create a new branch: git checkout -b feature-branch
-    Commit your changes: git commit -m 'Add some feature'
-    Push to the branch: git push origin feature-branch
-    Open a pull request
+1. Fork the repository
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-branch
 
-License 📜
+3. Commit your changes:
+    ```bash
+    git commit -m 'Add some feature'
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-Preview 🔥
+4. Push to the branch:
+    ```bash
+    git push origin feature-branch
 
+6. Open a pull request:
+
+## License 📜
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+## Preview 🔥
 Here’s a quick preview of the scripts in action:
 
 Stay tuned for more updates and features! 🚀
 
-vbnet
-
-
-This formatting should ensure the `Usage` section and everything after it appears correctly, with consistent spacing, bullet points, and code blocks. Follow these steps to update:
-
-1. Copy the revised content.
+### Instructions for Updating:
+1. Copy the revised content above.
 2. Go to your GitHub repository and click on the `README.md` file.
 3. Click on the pencil icon to edit the file.
 4. Paste the new content, replacing the existing one.
 5. Commit the changes.
 
-Let me know how it looks!
+Let me know if you need any further adjustments!
+
